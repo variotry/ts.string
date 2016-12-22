@@ -1,0 +1,19 @@
+{
+	"name": "ts.string",
+	"main": [
+		"dist/string.min.js",
+		"dist/string.d.ts"
+	],
+	"ignore": [
+		"**/.*",
+		"bowerLibs",
+		"gulpfile.js",
+		"gulpfiles",
+		"package.json",
+		"tsconfig.json",
+		"tslint.json",
+		"typings.json",
+		"*.sln",
+		"*.csproj"
+	]
+}
